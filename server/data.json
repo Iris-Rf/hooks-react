@@ -1,0 +1,22 @@
+{
+  "movies": [
+    {
+      "title": "Star Wars",
+      "poster": "https://indiehoy.com/wp-content/uploads/2020/01/star-wars-a-new-hope.jpg",
+      "year": "1977",
+      "id": "0476a6ac-65e8-4680-bcf6-d6b6be99d7de"
+    },
+    {
+      "title": "Batman",
+      "poster": "https://i.ebayimg.com/images/g/4Z8AAOSw04ViLNc1/s-l1600.jpg",
+      "year": "1989",
+      "id": "02e47f2f-2ee4-445f-8944-fff588d52a5e"
+    },
+    {
+      "title": "Robocop",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxX-JdybXGf_Jj5nHrS5amc7taOykd6ARpnpttF-U&s",
+      "year": "1985",
+      "id": "c1938728-9ce6-484b-9110-c9e9e8b17c48"
+    }
+  ]
+}
