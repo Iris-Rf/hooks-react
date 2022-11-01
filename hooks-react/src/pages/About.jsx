@@ -3,7 +3,7 @@ import React from "react";
 const About = () => {
   return (
     <div>
-        <h1>RICK AND MORTY</h1>
+        
       <section className="section-about">
         Rick and Morty (in English: Rick and Morty) is an American animated
         television series for adults created by Justin Roiland and Dan Harmon in
@@ -16,9 +16,8 @@ const About = () => {
         Spencer Grammer and Sarah Chalke. The series originated from a
         rudimentary short film animated by Roiland for the Channel 101 film
         festival called Doc and Mharti, a parody of the main leads from Back to
-        the Future. When NBC fired Harmon in 2013 over arguments between him and
-        executives from the series he had created, Community, he and Roiland
-        developed a series based on the characters Roilan had already created.
+        the Future. 
+
       </section>
     </div>
   );
