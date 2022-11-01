@@ -1,9 +1,9 @@
 import { Outlet } from "react-router-dom";
 import "./App.css";
-import { EffectFetching } from "./components/EffectFetching";
-EffectFetching
+import Footer from "./components/Footer";
 
 import NavBar from "./components/NavBar";
+
 
 function App() {
   return (
@@ -11,6 +11,7 @@ function App() {
       <NavBar />
       <main>
         <Outlet />
+        <Footer />
       </main>
     </div>
   );

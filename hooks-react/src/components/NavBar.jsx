@@ -12,6 +12,9 @@ const NavBar = () => {
       <NavLink className="navBar-a" to="gallery">
         Gallery
       </NavLink>
+      <NavLink className="navBar-a" to="about">
+        About
+      </NavLink>
     </nav>
   );
 };
