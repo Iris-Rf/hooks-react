@@ -19,8 +19,9 @@ const Gallery = () => {
 
   return (
     <>
-      <div className="container-gallery"></div>
-      <Image characters={characters} />
+      <div className="container-gallery">
+      <Image className="gallery" characters={characters} />
+      </div>
     </>
   );
 };

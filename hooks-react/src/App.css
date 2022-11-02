@@ -226,5 +226,20 @@ footer {
   align-self: flex-end;
   display: flex;
   justify-content: center;
+}
 
+
+.container-gallery{
+  /* width: 120px;
+  height: 120px; */
+  display: flex;
+  flex-wrap: wrap;
+  /* gap: 2rem; */
+  padding: 100px;
+  justify-content: center;
+  text-align: center;
+  /* float: right; */
+  background-color: black;
+  margin-right: 0px;
+  align-content: space-around
 }
