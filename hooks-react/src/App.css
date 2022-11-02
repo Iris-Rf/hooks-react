@@ -73,7 +73,7 @@ img {
 }
 
 body {
-  background: url("https://res.cloudinary.com/dpq2gujpb/image/upload/v1667327729/back_nb0meu.png") no-repeat center center fixed;
+  background: url("https://res.cloudinary.com/dpq2gujpb/image/upload/v1667349300/A_ydxt7u.png") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -85,9 +85,7 @@ body {
   font-size: 20px;
   display: flex;
   min-height: 15px;
-  /* max-width: 1500px; */
   align-items: center;
-  /* margin: 60; */
   padding: 50px;
   text-decoration: solid;
   line-height: normal;
@@ -95,7 +93,7 @@ body {
   text-overflow:ellipsis;
   width: 450px;
   font-weight: bold;
-  margin-left: 400px;
+  margin-left: 435px;
   background: rgba(192, 192, 192, 0.835);
   margin-top: 15px;
   border-radius: 20%;
@@ -208,7 +206,7 @@ p {
   /* max-width: 1500px; */
   align-items: center;
   /* margin: 60; */
-  padding: 7px;
+  padding: 45px;
   text-decoration: solid;
   line-height: normal;
   text-justify: distribute-all-lines;
