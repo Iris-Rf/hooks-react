@@ -5,6 +5,7 @@ const Home = () => {
   return (
     <>
     <section>
+    <h1>Welcome to Rick and Morty APP😎</h1>
       <div className="container-home">
         <p>
           Rick and Morty is the Emmy award-winning half-hour animated hit comedy
@@ -16,8 +17,8 @@ const Home = () => {
         </p>
       </div>
       </section>
-      <Button />
-      <h1>Welcome to Rick and Morty APP😎</h1>
+      {/* <Button /> */}
+      
     </>
   );
 };

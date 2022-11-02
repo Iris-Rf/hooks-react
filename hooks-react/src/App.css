@@ -4,10 +4,10 @@
 }
 
 .navbar-dark {
-  background-color: rgb(9, 9, 9);
+  /* background-color: rgb(9, 9, 9); */
   overflow: hidden;
   display: flex;
-  color: #f2f2f2;
+  color: black;
   align-items: center;
   text-align: center;
   font-size: 17px;
@@ -18,11 +18,12 @@
 .navBar-a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: black;
   text-align: end;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 22px;
+  font-weight: bold;
 }
 
 .navBar-a a:hover {
